@@ -1,0 +1,16 @@
+{
+  "name": "pupter",
+  "version": "1.0.0",
+  "description": "pupter test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alther",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.10",
+    "puppeteer": "^10.4.0",
+    "yarn": "^1.22.15"
+  }
+}
